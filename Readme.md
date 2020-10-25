@@ -2,18 +2,6 @@
 
 ### Well, hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-
-<a href="https://line.me/ti/p/ivan9826">
-  <img align="left" alt="Yuriko's Line" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/line.svg"/>
-</a>
-<a href="https://www.reddit.com/user/yuriko192/">
-  <img align="left" alt="Yuriko's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
-</a>
-<a href="https://t.me/yuriko192">
-  <img align="left" alt="Yuriko's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<br/>
-
 I'm [Ivan](https://github.com/yuriko192) also known as Yuriko
 
 I'm a university student currently studying in the field of computer science, also a weeb, also a tech nerd <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="15"/>
@@ -69,3 +57,16 @@ other than that, I also do some small 📱 Mobile Development and 📟 Embedded 
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuriko192" alt="Yuriko's Most Used Lang" />
 </details>
+
+
+Ways to Contact me 
+
+<a href="https://line.me/ti/p/ivan9826">
+  <img align="left" alt="Yuriko's Line" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/line.svg"/>
+</a>
+<a href="https://www.reddit.com/user/yuriko192/">
+  <img align="left" alt="Yuriko's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
+</a>
+<a href="https://t.me/yuriko192">
+  <img align="left" alt="Yuriko's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
