@@ -81,14 +81,14 @@ other than that, I also do some small 📱 Mobile Development, 🎮 Game Develop
 Ways to Contact me
 
 <a href="https://line.me/ti/p/ivan9826">
-  <img align="left" alt="Yuriko's Line" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/line.svg"/>
+  <img align="left" alt="Yuriko's Line" src="https://img.shields.io/badge/Line-00C300?style=flat&logo=Line&logoColor=white" />
 </a>
 <a href="https://www.reddit.com/user/yuriko192/">
-  <img align="left" alt="Yuriko's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
+  <img align="left" alt="Yuriko's Reddit" src="https://img.shields.io/badge/Reddit-FF4500?style=flat&logo=Reddit&logoColor=white" />
 </a>
 <a href="https://t.me/yuriko192">
-  <img align="left" alt="Yuriko's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  <img align="left" alt="Yuriko's Telegram" src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=Telegram&logoColor=white" />
 </a>
 <a href="https://github.com/yuriko192">
-  <img align="left" alt="Yuriko's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="Yuriko's Github" src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white" />
 </a>
