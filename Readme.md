@@ -11,8 +11,8 @@ I mostly use these programming languange:
 -   Python
 -   Javascript / Typescript
 -   Golang
+-   Zig
 -   C#
--   Dart
 -   Java
 -   C++
 
